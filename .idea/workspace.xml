@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b7a215b-ece2-4469-bb7f-e223b0dcb3b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/portfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/bear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/facetime.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/cube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/fishmail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/flint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/gungnir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/meta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/notebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/resume.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/rl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/zelda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/safari.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/terminal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/vscode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/sites/arxiv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/sites/astral.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/sites/bilibili.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/sites/dribbble.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/sites/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/sites/gitee.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/sites/github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/sites/gmail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/sites/hacker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/sites/leetcode.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/sites/linkedin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/sites/oh-vue-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/sites/pinterest.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/sites/reddit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/sites/zhihu.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ui/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ui/wallpaper-day.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ui/wallpaper-night.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ui/wallpaper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Images/Kali-Desktop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Images/Kali-Login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asset_import.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Launchpad/Launchpad.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TopBar/TopBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dock/Dock.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dock/DockItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Desktop/Desktop.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Login/Login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/fonts/AvenirNextLTPro-Demi.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/fonts/AvenirNextLTPro-DemiItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/fonts/AvenirNextLTPro-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/fonts/AvenirNextLTPro-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/index.tailwind.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/configs/apps.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/useWidowSize.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27ZNpbPK31EoY9I2XnbATbTs1qD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+    <property name="ts.external.directory.path" value="C:\Users\BetaISyn5243\Desktop\portfolio\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BetaISyn5243\Desktop\portfolio\public" />
+      <recent name="C:\Users\BetaISyn5243\Desktop\portfolio\src\styles" />
+      <recent name="C:\Users\BetaISyn5243\Desktop\portfolio\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BetaISyn5243\Desktop\portfolio\src" />
+      <recent name="C:\Users\BetaISyn5243\Desktop\portfolio\src\Assets\Images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b7a215b-ece2-4469-bb7f-e223b0dcb3b3" name="Changes" comment="" />
+      <created>1649523836436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649523836436</updated>
+      <workItem from="1649523839934" duration="1390000" />
+      <workItem from="1649525655085" duration="1408000" />
+      <workItem from="1649527090373" duration="2541000" />
+      <workItem from="1649529667097" duration="12825000" />
+      <workItem from="1649558966413" duration="2962000" />
+      <workItem from="1649561968961" duration="7380000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
