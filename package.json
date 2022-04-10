@@ -2,6 +2,9 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "17.0.23"
+  },
   "dependencies": {
     "@rooks/use-raf": "^4.11.2",
     "@testing-library/jest-dom": "^5.16.4",
