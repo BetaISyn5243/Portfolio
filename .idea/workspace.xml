@@ -2,86 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b7a215b-ece2-4469-bb7f-e223b0dcb3b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/portfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/bear.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/facetime.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/github.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/cube.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/fishmail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/flint.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/gungnir.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/meta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/notebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/resume.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/rl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/launchpad/zelda.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/mail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/safari.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/terminal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/vscode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sites/arxiv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sites/astral.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sites/bilibili.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sites/dribbble.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sites/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sites/gitee.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sites/github.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sites/gmail.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sites/hacker.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sites/leetcode.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sites/linkedin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sites/oh-vue-icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sites/pinterest.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sites/reddit.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/sites/zhihu.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/ui/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/ui/wallpaper-day.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/ui/wallpaper-night.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/ui/wallpaper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assets/Images/Kali-Desktop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assets/Images/Kali-Login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/asset_import.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Launchpad/Launchpad.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TopBar/TopBar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/dock/Dock.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/dock/DockItem.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Desktop/Desktop.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Login/Login.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/action.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/reducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/store.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/font.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/fonts/AvenirNextLTPro-Demi.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/fonts/AvenirNextLTPro-DemiItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/fonts/AvenirNextLTPro-Italic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/fonts/AvenirNextLTPro-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/index.tailwind.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/types/configs/apps.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/types/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/useWidowSize.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +84,7 @@
       <workItem from="1649527090373" duration="2541000" />
       <workItem from="1649529667097" duration="12825000" />
       <workItem from="1649558966413" duration="2962000" />
-      <workItem from="1649561968961" duration="7380000" />
+      <workItem from="1649561968961" duration="7854000" />
     </task>
     <servers />
   </component>
