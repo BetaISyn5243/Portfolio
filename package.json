@@ -4,7 +4,7 @@
   "private": true,
   "engines": {
     "node": "17.4.0",
-    "npm": "8.4.0",
+    "npm": "8.4.0"
   },
   "dependencies": {
     "@rooks/use-raf": "^4.11.2",
