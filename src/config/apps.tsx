@@ -1,11 +1,32 @@
-import type { AppsData } from "../types/configs/apps";
+import type { AppsData } from "../types";
+import {GrFirefox} from "react-icons/gr";
+import {BsFolderFill,BsFillTerminalFill} from "react-icons/bs";
+import Bear from "../Components/apps/Bear";
+
+let firefoxStyle={
+  backgroundColor:"rgb(240, 157, 102)",
+  color:"rgb(255, 255, 255)",
+  borderRadius:5,
+  padding:5
+}
+let folderStyle={
+  color:"rgb(128, 168, 213)",
+  borderRadius:5,
+  padding:5
+}
+let terminalStyle={
+  color:"rgb(23, 28, 32)",
+  borderRadius:5,
+  padding:5
+}
 const apps: AppsData[] = [
   {
     id: "launchpad",
     title: "Launchpad",
     desktop: false,
-    img: "img/icons/launchpad.png"
+    imgSource: "img/icons/launchpad.png"
   },
+
   {
     id: "bear",
     title: "Bear",
@@ -13,57 +34,57 @@ const apps: AppsData[] = [
     show: true,
     width: 860,
     height: 500,
-    img: "img/icons/bear.png",
-    content: <div>Bear</div>
+    imgElement: <GrFirefox/>,
+    content: <Bear/>
   },
   {
-    id: "safari",
-    title: "Safari",
+    id: "firefox",
+    title: "Firefox",
     desktop: true,
     show: false,
     width: 1024,
     minWidth: 375,
     minHeight: 200,
-    img: "img/icons/safari.png",
-    content: <div>Safari</div>
+    imgElement: <GrFirefox size={40} style={firefoxStyle}/>,
+    content: <div>Firefox</div>
   },
   {
     id: "vscode",
     title: "VSCode",
     desktop: true,
     show: false,
-    img: "img/icons/vscode.png",
+    imgSource: "img/icons/vscode.png",
     content: <div>VsCode</div>
   },
   {
-    id: "facetime",
-    title: "FaceTime",
+    id: "folder",
+    title: "Folder",
     desktop: true,
     show: false,
-    img: "img/icons/facetime.png",
+    imgElement: <BsFolderFill size={45} style={folderStyle}/>,
     height: 530,
-    content: <div>Facetime</div>
+    content: <div>Folder</div>
   },
   {
     id: "terminal",
     title: "Terminal",
     desktop: true,
     show: false,
-    img: "img/icons/terminal.png",
+    imgElement: <BsFillTerminalFill size={45} style={terminalStyle}/>,
     content: <div>Terminal</div>
   },
   {
     id: "email",
     title: "Mail",
     desktop: false,
-    img: "img/icons/mail.png",
+    imgSource: "img/icons/mail.png",
     link: "mailto:renovamenzxh@gmail.com"
   },
   {
     id: "github",
     title: "Github",
     desktop: false,
-    img: "img/icons/github.png",
+    imgSource: "img/icons/github.png",
     link: "https://github.com/Renovamen/playground-macos"
   }
 ];

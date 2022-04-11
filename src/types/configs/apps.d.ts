@@ -2,7 +2,8 @@ export interface AppsData {
   id: string;
   title: string;
   desktop: boolean;
-  img: string;
+  imgElement?: JSX.Element;
+  imgSource?: String;
   show?: boolean;
   width?: number;
   height?: number;

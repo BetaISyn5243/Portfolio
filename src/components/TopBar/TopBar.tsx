@@ -89,7 +89,7 @@ export default function TopBar(props: TopBarProps) {
 
   return (
     <div
-      className={`nightwind-prevent w-full h-6 px-2 fixed top-0 flex flex-row justify-between items-center z-20 text-sm text-white bg-black ${props.login ? "bg-opacity-50" : "bg-opacity-100"} backdrop-blur-2xl shadow transition`}
+      className={`flex-1 nightwind-prevent w-full h-6 px-2 fixed top-0 flex flex-row justify-between items-center z-20 text-sm text-white bg-black ${props.login ? "bg-opacity-50" : "bg-opacity-100"} backdrop-blur-2xl shadow transition`}
     >
       <div className={`flex flex-row items-center space-x-4 cursor-default`}>{props.login ? "kali" : <div>
         <TopBarItem ref={applicationsBtnRef}>Applications <RiArrowDownSFill/></TopBarItem><TopBarItem
