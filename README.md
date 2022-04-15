@@ -1,4 +1,4 @@
-# playground-macos
+# Playground Kali Linux
 
 Powered by [React](https://reactjs.org/) + [React Redux](https://react-redux.js.org/) + [Tailwind CSS](https://tailwindcss.com/) + [TypeScript](https://www.typescriptlang.org/) 
 
